@@ -4,6 +4,8 @@ Janelinha GTK pra mexer nos monitores do Hyprland sem decorar `hyprctl keyword m
 espelhar no projetor da facul, ligar/desligar telas e arrastar a disposição.
 Puro Python + PyGObject (GTK4), zero deps além disso.
 
+![A janela do SetTela](docs/settela.png)
+
 ## Abrir
 
 - `Super+P`
